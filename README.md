@@ -6,6 +6,7 @@ Hards Skills:
 Javascript, Banco de Dados, SQL, Git, Node.Js, API REST e metodologias ágeis como Scrum.
 
 Para me encontrar:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriquetex/)
 
 
