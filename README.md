@@ -1,6 +1,6 @@
 ### Olá pessoal 👋
 
-Me chamo Henrique e sou profissional na área de tecnologia da informação, possuo vasta experiência em segmentos como técnico de suporte, redes de computadores, e manutenção em hardwares, desde cargos como assistente até analista. 
+Me chamo Henrique e sou profissional na área de tecnologia da informação, possuo vasta experiência em segmentos como técnico de suporte, redes de computadores, e manutenção em hardwares, em cargos como assistente até analista. 
 Desde 2022 estou imerso na formação como desenvolvedor de software com foco em back-end, e aprimorando as habilidades de soft skills adquiridas durante os anos, através de networking, palestras e leitura.
 
 Principais tecnologias: 🎓
